@@ -1,0 +1,11 @@
+Source: maple18
+Section: Science
+Standards-Version: 18
+Maintainer: Rike-Benjamin Schuppner <rike.schuppner@bccn-berlin.de>
+Build-Depends: debhelper (>= 9)
+
+Package: maple18
+Architecture: amd64
+Depends:
+Description: Maple 18
+

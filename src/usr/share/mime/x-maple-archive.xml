@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<mime-type xmlns="http://www.freedesktop.org/standards/shared-mime-info" type="application/x-maple-archive">
+  <!--Created automatically by update-mime-database. DO NOT EDIT!-->
+  <comment>Maple Library Archive</comment>
+  <glob pattern="*.mla"/>
+</mime-type>

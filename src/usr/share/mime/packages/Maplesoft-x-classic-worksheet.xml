@@ -1,0 +1,7 @@
+<?xml version="1.0"?>
+<mime-info xmlns='http://www.freedesktop.org/standards/shared-mime-info'>
+<mime-type type="application/x-classic-worksheet">
+    <comment>Maple Classic Worksheet</comment>
+    <glob pattern="*.mws"/>
+</mime-type>
+</mime-info>
