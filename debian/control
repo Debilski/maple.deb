@@ -1,11 +1,12 @@
-Source: maple18
+Source: maple
 Section: Science
-Standards-Version: 18
+Standards-Version: 18-0
 Maintainer: Rike-Benjamin Schuppner <rike.schuppner@bccn-berlin.de>
 Build-Depends: debhelper (>= 9)
 
-Package: maple18
+Package: maple
 Architecture: amd64
 Depends:
 Description: Maple 18
+  A powerful computer algebra system.
 
